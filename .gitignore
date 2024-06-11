@@ -17,7 +17,7 @@ venv.bak/
 dump.rdb
 
 # Environments
-*.env
+.env
 
 # Pytest
 .cache/
